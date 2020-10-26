@@ -1,0 +1,7 @@
+﻿  3.4.cpp
+C:\Users\Aquatic\source\repos\3.4\3.4\3.4.cpp(1,1): error C2059: syntax error: '.'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sal.h(2361,12): error C2143: syntax error: missing ';' before '{'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\sal.h(2361,12): error C2447: '{': missing function header (old-style formal list?)
+C:\Users\Aquatic\source\repos\3.4\3.4\3.4.cpp(22,14): error C2100: illegal indirection
+C:\Users\Aquatic\source\repos\3.4\3.4\3.4.cpp(23,25): error C2100: illegal indirection
+C:\Users\Aquatic\source\repos\3.4\3.4\3.4.cpp(12): fatal error C1075: '{': no matching token found
